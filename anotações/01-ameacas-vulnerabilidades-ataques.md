@@ -6,14 +6,14 @@ Notas de estudo completas sobre domínios de ameaça, tipos de ataque, malware, 
 
 Um domínio de ameaça é uma área de controle, autoridade ou proteção que invasores podem explorar para obter acesso a um sistema. Formas comuns de exploração incluem:
 
-1. Acesso direto e físico a sistemas e redes
-2. Redes sem fio que ultrapassam os limites físicos da empresa
-3. Bluetooth ou NFC (comunicação de campo próximo)
-4. Anexos de email maliciosos
-5. Elos fracos na cadeia de fornecimento
-6. Contas de mídia social da empresa
-7. Mídia removível (pen drives, HDs externos)
-8. Aplicativos baseados em nuvem
+- Acesso direto e físico a sistemas e redes
+- Redes sem fio que ultrapassam os limites físicos da empresa
+- Bluetooth ou NFC (comunicação de campo próximo)
+- Anexos de email maliciosos
+- Elos fracos na cadeia de fornecimento
+- Contas de mídia social da empresa
+- Mídia removível (pen drives, HDs externos)
+- Aplicativos baseados em nuvem
 
 ## Categorias de ameaças
 
@@ -40,13 +40,13 @@ Classificar ameaças ajuda a empresa a priorizar esforços de segurança com bas
 
 O usuário é considerado o elo mais fraco da segurança da informação. Principais riscos:
 
-1. **Falta de conscientização de segurança**: usuário não entende políticas, dados sensíveis ou contramedidas em vigor
-2. **Políticas aplicadas incorretamente**: falta de clareza sobre as consequências da não conformidade
-3. **Roubo de dados**: gera dano reputacional e responsabilidade legal
-4. **Downloads e mídias não autorizados**: infecções rastreadas a downloads de músicas, vídeos e apps não autorizados
-5. **VPNs não autorizadas**: a criptografia pode esconder roubo de dados de administradores de rede
-6. **Sites não autorizados**: podem solicitar download de scripts ou plugins maliciosos, e até assumir controle de câmeras e outros dispositivos
-7. **Destruição de sistemas ou dados**: sabotagem por ativistas, funcionários insatisfeitos ou concorrentes
+- **Falta de conscientização de segurança**: usuário não entende políticas, dados sensíveis ou contramedidas em vigor
+- **Políticas aplicadas incorretamente**: falta de clareza sobre as consequências da não conformidade
+- **Roubo de dados**: gera dano reputacional e responsabilidade legal
+- **Downloads e mídias não autorizados**: infecções rastreadas a downloads de músicas, vídeos e apps não autorizados
+- **VPNs não autorizadas**: a criptografia pode esconder roubo de dados de administradores de rede
+- **Sites não autorizados**: podem solicitar download de scripts ou plugins maliciosos, e até assumir controle de câmeras e outros dispositivos
+- **Destruição de sistemas ou dados**: sabotagem por ativistas, funcionários insatisfeitos ou concorrentes
 
 Vale lembrar: não existe solução técnica que torne um sistema mais seguro do que o comportamento das pessoas que o usam.
 
@@ -60,9 +60,9 @@ Vale lembrar: não existe solução técnica que torne um sistema mais seguro do
 
 **Nuvem pública**: recursos de computação compartilhados entre organizações via provedor de internet. Existem três modelos de serviço:
 
-1. **SaaS** (Software como Serviço): software hospedado e acessado via navegador ou app, não armazenado localmente
-2. **PaaS** (Plataforma como Serviço): plataforma para desenvolver, rodar e gerenciar aplicações no hardware do provedor
-3. **IaaS** (Infraestrutura como Serviço): recursos de computação virtual (hardware, servidores, armazenamento) fornecidos via internet
+- **SaaS** (Software como Serviço): software hospedado e acessado via navegador ou app, não armazenado localmente
+- **PaaS** (Plataforma como Serviço): plataforma para desenvolver, rodar e gerenciar aplicações no hardware do provedor
+- **IaaS** (Infraestrutura como Serviço): recursos de computação virtual (hardware, servidores, armazenamento) fornecidos via internet
 
 **Aplicações**: acesso não autorizado a data centers e sistemas, tempo de inatividade em manutenção, vulnerabilidades de SO de rede, perda de dados, falhas em desenvolvimento de apps cliente servidor ou web.
 
@@ -94,19 +94,19 @@ Estratégia não técnica que manipula pessoas para realizar ações ou divulgar
 
 **Tipos de ataque:**
 
-1. **Pretexting**: mentir para obter dados privilegiados, como fingir precisar confirmar a identidade de alguém
-2. **Quid pro quo**: solicitar dados pessoais em troca de algo, como um prêmio ou viagem grátis
-3. **Fraude de identidade**: usar identidade roubada para obter bens ou serviços por engano
+- **Pretexting**: mentir para obter dados privilegiados, como fingir precisar confirmar a identidade de alguém
+- **Quid pro quo**: solicitar dados pessoais em troca de algo, como um prêmio ou viagem grátis
+- **Fraude de identidade**: usar identidade roubada para obter bens ou serviços por engano
 
 **Táticas psicológicas exploradas:**
 
-1. **Autoridade**: pessoas obedecem mais quando instruídas por uma figura de autoridade (exemplo: executivo abre um PDF de "intimação" infectado)
-2. **Intimidação**: pressionar a vítima a agir sob ameaça (exemplo: culpar a secretária por um arquivo corrompido)
-3. **Consenso, ou prova social**: agir como os outros ao redor (exemplo: contas falsas validando uma "oportunidade de negócio")
-4. **Escassez**: criar senso de quantidade limitada disponível
-5. **Urgência**: criar senso de tempo limitado para agir
-6. **Familiaridade**: construir relacionamento com a vítima, ou clonar o perfil de um amigo dela
-7. **Confiança**: estabelecida ao longo do tempo (exemplo: falso "especialista em segurança" que "descobre" um problema grave)
+- **Autoridade**: pessoas obedecem mais quando instruídas por uma figura de autoridade (exemplo: executivo abre um PDF de "intimação" infectado)
+- **Intimidação**: pressionar a vítima a agir sob ameaça (exemplo: culpar a secretária por um arquivo corrompido)
+- **Consenso, ou prova social**: agir como os outros ao redor (exemplo: contas falsas validando uma "oportunidade de negócio")
+- **Escassez**: criar senso de quantidade limitada disponível
+- **Urgência**: criar senso de tempo limitado para agir
+- **Familiaridade**: construir relacionamento com a vítima, ou clonar o perfil de um amigo dela
+- **Confiança**: estabelecida ao longo do tempo (exemplo: falso "especialista em segurança" que "descobre" um problema grave)
 
 **Shoulder surfing**: observar por cima do ombro do alvo para capturar PINs, senhas ou dados de cartão. Pode ser feito à distância, com binóculos ou câmeras de segurança.
 
@@ -114,23 +114,23 @@ Estratégia não técnica que manipula pessoas para realizar ações ou divulgar
 
 **Outras técnicas de disfarce:**
 
-1. **Representação (impersonation)**: fingir ser outra pessoa, como um falso funcionário de órgão público cobrando dívida sob ameaça de prisão
-2. **Farsas (hoaxes)**: mensagens enganosas, como alertas falsos de vírus pedindo para o usuário repassar a mensagem, causando pânico desnecessário
-3. **Piggybacking e tailgating**: seguir uma pessoa autorizada para entrar fisicamente em área restrita, fingindo estar acompanhado ou se misturando numa multidão. Defesa comum: mantrap, duas portas em sequência, onde a primeira precisa fechar antes da segunda abrir
-4. **Fraude de fatura**: fatura falsa com linguagem urgente pedindo login em tela falsa
-5. **Watering hole (ataque do regador)**: infectar sites que o alvo costuma visitar
-6. **Typosquatting**: registrar domínios com erros de digitação comuns para capturar tráfego
-7. **Adendo**: remover a tag de "externo" do email para simular origem interna da empresa
-8. **Campanhas de influência**: combinam notícias falsas, desinformação e publicações em mídia social, comuns em guerra cibernética
+- **Representação (impersonation)**: fingir ser outra pessoa, como um falso funcionário de órgão público cobrando dívida sob ameaça de prisão
+- **Farsas (hoaxes)**: mensagens enganosas, como alertas falsos de vírus pedindo para o usuário repassar a mensagem, causando pânico desnecessário
+- **Piggybacking e tailgating**: seguir uma pessoa autorizada para entrar fisicamente em área restrita, fingindo estar acompanhado ou se misturando numa multidão. Defesa comum: mantrap, duas portas em sequência, onde a primeira precisa fechar antes da segunda abrir
+- **Fraude de fatura**: fatura falsa com linguagem urgente pedindo login em tela falsa
+- **Watering hole (ataque do regador)**: infectar sites que o alvo costuma visitar
+- **Typosquatting**: registrar domínios com erros de digitação comuns para capturar tráfego
+- **Adendo**: remover a tag de "externo" do email para simular origem interna da empresa
+- **Campanhas de influência**: combinam notícias falsas, desinformação e publicações em mídia social, comuns em guerra cibernética
 
 **Defesas contra engenharia social:**
 
-1. Nunca divulgar credenciais ou dados sensíveis a desconhecidos
-2. Resistir a clicar em links e emails atrativos
-3. Desconfiar de downloads automáticos ou não iniciados
-4. Educar funcionários sobre as políticas de segurança
-5. Incentivar responsabilidade compartilhada pelos problemas de segurança
-6. Não ceder a pressão de pessoas desconhecidas
+- Nunca divulgar credenciais ou dados sensíveis a desconhecidos
+- Resistir a clicar em links e emails atrativos
+- Desconfiar de downloads automáticos ou não iniciados
+- Educar funcionários sobre as políticas de segurança
+- Incentivar responsabilidade compartilhada pelos problemas de segurança
+- Não ceder a pressão de pessoas desconhecidas
 
 ## Malware
 
@@ -154,8 +154,8 @@ Ataques relativamente simples de executar, mesmo por invasores não qualificados
 
 **DoS (Denial of Service)**: um único invasor ou origem sobrecarrega o alvo. Duas formas principais:
 
-1. **Tráfego esmagador**: volume de dados que a rede, host ou aplicação não consegue processar, causando lentidão ou falha
-2. **Pacotes malformados**: pacotes com erros que o dispositivo receptor não consegue interpretar corretamente, travando ou desacelerando o serviço
+- **Tráfego esmagador**: volume de dados que a rede, host ou aplicação não consegue processar, causando lentidão ou falha
+- **Pacotes malformados**: pacotes com erros que o dispositivo receptor não consegue interpretar corretamente, travando ou desacelerando o serviço
 
 **DDoS (Distributed Denial of Service)**: versão distribuída do DoS, em que múltiplos dispositivos comprometidos atacam o mesmo alvo ao mesmo tempo. Esses dispositivos costumam formar uma botnet, uma rede de máquinas infectadas controladas remotamente pelo invasor sem o conhecimento dos donos. Por vir de várias origens diferentes ao mesmo tempo, o DDoS é bem mais difícil de bloquear que um DoS comum, já que não dá pra simplesmente banir um único IP.
 
@@ -173,10 +173,10 @@ Ataques relativamente simples de executar, mesmo por invasores não qualificados
 
 A camada 2 do modelo OSI é responsável por mover dados pela rede física, mapeando endereços IP para endereços MAC através do protocolo ARP.
 
-1. **Spoofing de MAC**: disfarça o dispositivo do invasor como um MAC autorizado, ignorando o processo de autenticação
-2. **ARP spoofing**: envia mensagens ARP falsas vinculando o MAC do invasor ao IP de um dispositivo autorizado na rede
-3. **IP spoofing**: envia pacotes IP com endereço de origem falsificado
-4. **Inundação de MAC**: satura o switch de rede com endereços MAC falsos, comprometendo a segurança da comutação de pacotes
+- **Spoofing de MAC**: disfarça o dispositivo do invasor como um MAC autorizado, ignorando o processo de autenticação
+- **ARP spoofing**: envia mensagens ARP falsas vinculando o MAC do invasor ao IP de um dispositivo autorizado na rede
+- **IP spoofing**: envia pacotes IP com endereço de origem falsificado
+- **Inundação de MAC**: satura o switch de rede com endereços MAC falsos, comprometendo a segurança da comutação de pacotes
 
 ## Sniffing
 
@@ -194,10 +194,10 @@ Exploram vulnerabilidades de software antes que se tornem conhecidas ou sejam co
 
 ## Defesas gerais contra ataques de rede
 
-1. Configurar firewalls para descartar pacotes externos com endereço de origem interno (anti spoofing)
-2. Manter patches e atualizações em dia
-3. Distribuir a carga de trabalho entre servidores
-4. Bloquear pacotes ICMP externos para mitigar DoS e DDoS
+- Configurar firewalls para descartar pacotes externos com endereço de origem interno (anti spoofing)
+- Manter patches e atualizações em dia
+- Distribuir a carga de trabalho entre servidores
+- Bloquear pacotes ICMP externos para mitigar DoS e DDoS
 
 ## Ataques a dispositivos móveis e sem fio
 
@@ -219,11 +219,11 @@ Exploram vulnerabilidades de software antes que se tornem conhecidas ou sejam co
 
 **Defesas Wi-Fi e móvel:**
 
-1. Alterar configurações padrão e usar autenticação e criptografia
-2. Posicionar access points fora do firewall ou em uma DMZ (zona desmilitarizada)
-3. Usar ferramentas como NetStumbler para detectar access points não autorizados
-4. Criar política de acesso para convidados
-5. Exigir VPN de acesso remoto para funcionários que usam a WLAN
+- Alterar configurações padrão e usar autenticação e criptografia
+- Posicionar access points fora do firewall ou em uma DMZ (zona desmilitarizada)
+- Usar ferramentas como NetStumbler para detectar access points não autorizados
+- Criar política de acesso para convidados
+- Exigir VPN de acesso remoto para funcionários que usam a WLAN
 
 ## Ataques a aplicações
 
@@ -259,9 +259,9 @@ Exploram vulnerabilidades de software antes que se tornem conhecidas ou sejam co
 
 **Defesas contra ataques de aplicação:**
 
-1. Escrever código sólido é a primeira linha de defesa
-2. Tratar e validar toda entrada externa como se fosse hostil
-3. Manter todo software atualizado, sem ignorar prompts de atualização
+- Escrever código sólido é a primeira linha de defesa
+- Tratar e validar toda entrada externa como se fosse hostil
+- Manter todo software atualizado, sem ignorar prompts de atualização
 
 ## Spam
 
@@ -269,12 +269,12 @@ Email não solicitado, geralmente com fim publicitário, mas frequentemente envi
 
 **Indicadores comuns de spam:**
 
-1. Email sem assunto
-2. Pedido para atualizar dados da conta
-3. Erros de ortografia ou pontuação estranha
-4. Links longos ou incompreensíveis
-5. Aparência de empresa legítima com pequenas diferenças suspeitas
-6. Pedido urgente para abrir um anexo
+- Email sem assunto
+- Pedido para atualizar dados da conta
+- Erros de ortografia ou pontuação estranha
+- Links longos ou incompreensíveis
+- Aparência de empresa legítima com pequenas diferenças suspeitas
+- Pedido urgente para abrir um anexo
 
 ## Phishing e variantes
 
@@ -290,11 +290,11 @@ Email não solicitado, geralmente com fim publicitário, mas frequentemente envi
 
 **Defesas contra email e navegador:**
 
-1. ISPs e softwares antivírus costumam filtrar spam automaticamente
-2. Educar funcionários sobre os perigos de anexos não solicitados
-3. Nunca presumir que um anexo é seguro, mesmo vindo de um contato confiável
-4. Participar de iniciativas como o APWG (Anti Phishing Working Group)
-5. Manter todo software com as correções de segurança mais recentes aplicadas
+- ISPs e softwares antivírus costumam filtrar spam automaticamente
+- Educar funcionários sobre os perigos de anexos não solicitados
+- Nunca presumir que um anexo é seguro, mesmo vindo de um contato confiável
+- Participar de iniciativas como o APWG (Anti Phishing Working Group)
+- Manter todo software com as correções de segurança mais recentes aplicadas
 
 ## Outros vetores de ataque
 

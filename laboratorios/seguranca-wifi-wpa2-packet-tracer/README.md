@@ -13,7 +13,7 @@ Uma pequena empresa percebeu que a rede Wifi estava aberta, sem nenhuma prote√ß√
 ## Topologia
 
 ```
-Laptop ~~~ Wireless Router --- Internet --- Web Server (www.cisco.pka)
+Laptop  ~~~ Wireless Router --- Internet --- Web Server (www.cisco.pka)
 ```
 
 - **Laptop:** cliente wireless (adaptador WPC300N)

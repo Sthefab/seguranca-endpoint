@@ -1,4 +1,4 @@
-# Princípios, Práticas e Processos de Segurança Cibernética – Resumo
+# Princípios, Práticas e Processos de Segurança Cibernética
 
 ## O Cubo da Segurança Cibernética
 

@@ -1,4 +1,4 @@
-# seguranca-endpoint
+# Segurança de Endpoint
 
 Resumos, labs e certificado do curso de Segurança de Endpoint (Cisco Networking Academy).
 
@@ -35,8 +35,6 @@ Repositório com o material que fui produzindo durante o curso: anotações por 
 | [Investigando cenário de ameaças](laboratorios/investigando-cenario-de-ameacas) | Packet Tracer |
 | [Segurança Wi-Fi com WPA2](laboratorios/seguranca-wifi-wpa2-packet-tracer) | Packet Tracer |
 
-Mais labs serão adicionados conforme eu for concluindo.
-
 ## Certificado
 
-O certificado de conclusão está na pasta [`certificado/`](certificado).
+[Certificado de conclusão do curso de Segurança de Endpoint](certificado/certificado_cisco-seguranca-endpoint.pdf)

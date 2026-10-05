@@ -37,4 +37,4 @@ Repositório com o material que fui produzindo durante o curso: anotações por 
 
 ## Certificado
 
-[Certificado de conclusão do curso de Segurança de Endpoint](certificado/certificado_cisco-seguranca-endpoint.pdf)
+[Certificado de conclusão do curso de Segurança de Endpoint](certificado/certificado_cisco-segurança-endpoint.pdf)
